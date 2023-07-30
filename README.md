@@ -7,7 +7,7 @@ This project uses Python and machine learning algorithms to predict loan eligibi
 Deployment
 The project has been deployed using Streamlit and is accessible at the following link:
 
-Loan Prediction Web Application
+[Loan Prediction Web Application](https://saikiranyadavskyloan.streamlit.app/)
 
 Please visit the provided link to interact with the application and check your loan eligibility.
 
