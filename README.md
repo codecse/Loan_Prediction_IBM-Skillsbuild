@@ -45,8 +45,8 @@ Features
   
 Contributing
 + Raviteja Ravella
-+ Suryakiran
 + Utsav Kumar
++ Suryakiran
 + Saikiran Yadav
 + Harivardhan
 
