@@ -1,17 +1,19 @@
 # Loan Prediction
 Loan Prediction is a machine learning project that predicts loan eligibility for individuals.
 
-Description
+**Description**
 This project uses Python and machine learning algorithms to predict loan eligibility based on user inputs. It employs a Random Forest Classifier to analyze various features such as gender, marital status, income, loan amount, and credit history to determine whether a loan applicant is eligible or not.
 
-Deployment
+**Deployment**
+
 The project has been deployed using Streamlit and is accessible at the following link:
 
 [Loan Prediction Web Application](https://saikiranyadavskyloan.streamlit.app/)
 
 Please visit the provided link to interact with the application and check your loan eligibility.
 
-Installation
+**Installation**
+
 To use the project locally, follow these steps:
 
 1. Clone the repository by running the following command in your terminal:
@@ -27,7 +29,7 @@ Make sure you have the following libraries installed:
 + Pandas
 + Scikit-learn
 
-Usage
+**Usage**
 
 + Run the application using the following command:
 
@@ -36,19 +38,20 @@ Usage
 2. Fill in your details, such as gender, marital status, income, loan amount, loan tenor, credit history, and property area.
 3. Click on the "LoanPredict" button to get the loan eligibility result.
 
-Features
+**Features**
 
 + Accurate loan eligibility prediction based on user inputs.
 + Interactive web interface using Streamlit for easy interaction.
 + Real-time response for loan predictions.
 + Explains the factors contributing to loan eligibility through model interpretability techniques.
   
-Contributing
+**Contributing**
 + Raviteja Ravella
 + Utsav Kumar
 + Suryakiran
 + Saikiran Yadav
 + Harivardhan
 
-License
+**License**
+
 This project is open source and available to the public. You are free to use and distribute this project, but modification of the original source code in this repository is not allowed.
